@@ -4,7 +4,7 @@ Imported the necessary libraries
 
 Read the data as a data frame
 
-Performed basic EDA which included the following and printed out the insights at every step.
+# Performed basic EDA which included the following and printed out the insights at every step.
 
 a. Shape of the data
 
@@ -24,7 +24,7 @@ h. Distribution of categorical columns (include children)
 
 i. Pair plot that includes all the columns of the data frame
 
-The notebook also analyzed the below questions with the statistical evidence
+# The notebook also analyzed the below questions with the statistical evidence
 
 a. Do charges of people who smoke differ significantly from the people who don't?
 
